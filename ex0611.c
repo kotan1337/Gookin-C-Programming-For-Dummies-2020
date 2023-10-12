@@ -2,11 +2,11 @@
 
 int main()
 {
-    int a, b, c;
+    int a,b,c;
 
     a = 5;
     b = 7;
     c = a + b;
-    printf("Variable c = %d\n", c);
+    printf("Variable c=%d\n",c);
     return(0);
 }
